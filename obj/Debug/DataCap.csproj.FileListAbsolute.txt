@@ -1,0 +1,74 @@
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\bin\Debug\DataCap.exe.config
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\bin\Debug\DataCap.exe
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\bin\Debug\DataCap.pdb
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\bin\Debug\Microsoft.Kinect.dll
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\bin\Debug\Microsoft.Kinect.xml
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap.csprojResolveAssemblyReference.cache
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\MainWindow.g.cs
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\App.g.cs
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap_MarkupCompile.cache
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap_MarkupCompile.lref
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\MainWindow.baml
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap.g.resources
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap.Properties.Resources.resources
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap.csproj.GenerateResource.Cache
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap.exe
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap.pdb
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\Admin.g.cs
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\Play.g.cs
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\Register.g.cs
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\Admin.baml
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\Play.baml
+c:\users\fairuz\documents\visual studio 2015\Projects\DataCap\DataCap\obj\Debug\Register.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\bin\Debug\Kinect Database.accdb
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\PlayResult.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\UserLog.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap_Content.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\PlayResult.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\UserLog.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\bin\Debug\DataCap.exe.config
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap.exe
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap.pdb
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\bin\Debug\Kinect Database.accdb
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\bin\Debug\DataCap.exe
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\bin\Debug\DataCap.pdb
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap.csprojResolveAssemblyReference.cache
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\Admin.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\MainWindow.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\Play.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\PlayResult.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\Register.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\UserLog.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\App.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap_Content.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap_MarkupCompile.cache
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap_MarkupCompile.lref
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\Admin.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\MainWindow.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\Play.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\PlayResult.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\Register.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\UserLog.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap.g.resources
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap.Properties.Resources.resources
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap.csproj.GenerateResource.Cache
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\PlayerDetails.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\PlayerDetails.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\PlayerDetails.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\Task1.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\PlayerDetails.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\Task1.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\Task1.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\Task1.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap.Capture.resources
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\DataCap.ViewResult.resources
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap.Capture.resources
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\DataCap.ViewResult.resources
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\Query.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap\DataCap\obj\Debug\Query.baml
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\Query.g.cs
+C:\Users\Fairuz\Documents\Visual Studio 2015\Projects\DataCap - Copy\DataCap\obj\Debug\Query.baml
