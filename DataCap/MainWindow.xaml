@@ -1,0 +1,20 @@
+﻿<Window x:Name="MainWindow1" x:Class="DataCap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataCap"
+        mc:Ignorable="d"
+        Title="DataCap" Height="350" Width="525" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Label x:Name="label" Content="Matrix No. :" HorizontalAlignment="Left" Margin="33,106,0,0" VerticalAlignment="Top" FontFamily="Bell MT" FontSize="16"/>
+        <Label x:Name="label1" Content="Name :" HorizontalAlignment="Left" Margin="33,137,0,0" VerticalAlignment="Top" FontFamily="Bell MT" FontSize="16"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="149,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Bell MT" FontSize="16"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="149,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Bell MT" FontSize="16"/>
+        <Image x:Name="image" Source="C:\Users\Fairuz\Documents\aj\Kinect Skeleton.png"  HorizontalAlignment="Left" Height="190" Margin="320,50,0,0" VerticalAlignment="Top" Width="170"/>
+        <Button x:Name="button" Content="Login" HorizontalAlignment="Left" Margin="184,201,0,0" VerticalAlignment="Top" Width="85" FontFamily="Bell MT" FontSize="16" Click="button_Click" Height="27"/>
+        <Button x:Name="button1" Content="Register" HorizontalAlignment="Left" Margin="91,201,0,0" VerticalAlignment="Top" Width="82" FontFamily="Bell MT" FontSize="16" Click="button1_Click" Height="27"/>
+        <GroupBox x:Name="groupBox" Header="Welcome to DataCap" HorizontalAlignment="Left" Margin="15,39,0,0" VerticalAlignment="Top" Height="213" Width="286" FontFamily="Bauhaus 93" FontSize="18.667"/>
+        <Button x:Name="button2" Content="Exit" HorizontalAlignment="Left" Margin="415,273,0,0" VerticalAlignment="Top" Width="82" FontFamily="Bell MT" FontSize="16" Click="button2_Click" Height="27"/>
+    </Grid>
+</Window>

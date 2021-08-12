@@ -1,0 +1,20 @@
+﻿<Window x:Name="Admin1" x:Class="DataCap.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataCap"
+        mc:Ignorable="d"
+        Title="Admin" Height="479" Width="463" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Image x:Name="image" Source="C:\Users\Fairuz\Documents\aj\Database.png"  HorizontalAlignment="Left" Height="183" Margin="10,26,0,0" VerticalAlignment="Top" Width="178"/>
+        <Button x:Name="button" Content="Registered Users" HorizontalAlignment="Left" Margin="215,53,0,0" VerticalAlignment="Top" Width="201" FontFamily="Bell MT" FontSize="16" Height="29" Click="button_Click"/>
+        <Button x:Name="button1" Content="Player Result" HorizontalAlignment="Left" Margin="215,97,0,0" VerticalAlignment="Top" Width="201" FontFamily="Bell MT" FontSize="16" Height="29" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Close" HorizontalAlignment="Left" Margin="328,396,0,0" VerticalAlignment="Top" Width="96" FontFamily="Bell MT" FontSize="16" Height="30" Click="button2_Click"/>
+        <Image x:Name="image1" Source="C:\Users\Fairuz\Documents\aj\Kinect Skeleton.png"  HorizontalAlignment="Left" Height="175" Margin="43,240,0,0" VerticalAlignment="Top" Width="120"/>
+        <GroupBox x:Name="groupBox" Header="Database" HorizontalAlignment="Left" Margin="193,16,0,0" VerticalAlignment="Top" Height="172" Width="244" FontFamily="Bauhaus 93" FontSize="18.667"/>
+        <Button x:Name="button3" Content="Test" HorizontalAlignment="Left" Margin="215,288,0,0" VerticalAlignment="Top" Width="201" RenderTransformOrigin="0.5,0.5" Height="35" FontFamily="Bell MT" FontSize="16" Click="button3_Click"/>
+        <GroupBox x:Name="groupBox1" Header="Kinect Camera" HorizontalAlignment="Left" Margin="193,240,0,0" VerticalAlignment="Top" Height="111" Width="244" FontFamily="Bauhaus 93" FontSize="18.667"/>
+        <Button x:Name="button4" Content="Query" HorizontalAlignment="Left" Margin="215,139,0,0" VerticalAlignment="Top" Width="201" FontFamily="Bell MT" FontSize="16" Height="29" Click="button4_Click"/>
+    </Grid>
+</Window>

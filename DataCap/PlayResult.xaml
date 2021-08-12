@@ -1,0 +1,22 @@
+﻿<Window x:Class="DataCap.PlayResult"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataCap"
+        mc:Ignorable="d"
+        Title="PlayResult" Height="388" Width="521" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:Kinect_DatabaseDataSet2 x:Key="kinect_DatabaseDataSet2"/>
+        <CollectionViewSource x:Key="playerResultViewSource" Source="{Binding PlayerResult, Source={StaticResource kinect_DatabaseDataSet2}}"/>
+    </Window.Resources>
+    <Grid Margin="0,0,2,-6" DataContext="{StaticResource playerResultViewSource}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button" Content="Close" HorizontalAlignment="Left" Margin="380,295,0,0" VerticalAlignment="Top" Width="107" Height="38" FontFamily="Bell MT" FontSize="16" Click="button_Click"/>
+        <DataGrid x:Name="dataGrid" AutoGenerateColumns="True" HorizontalAlignment="Left" Margin="31,29,0,0" VerticalAlignment="Top" Height="239" Width="456" ItemsSource="{Binding}" FontFamily="Bell MT" FontSize="18.667"/>
+
+    </Grid>
+</Window>
